@@ -1,0 +1,18 @@
+.maincontent {
+ display: flex;
+ background-color: aliceblue;
+}
+
+.pagelogo {
+  margin: 10px 20px;
+}
+
+.pagemoto {
+    margin: 20px 10px;
+}
+
+img {
+    height: 250px;
+    width: 300px;
+}
+
